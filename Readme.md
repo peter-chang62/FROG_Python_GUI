@@ -6,6 +6,8 @@
 
 ## Gui User Instructions
 
+The main GUI program to run is Gui_Controller.py
+
 **Spectrum Continuous Update Tab:**
 * Use the "Start Continuous Update" button to have the spectrum be updated continuously.
 * Use the "Set Ambient" button to set the current spectrum as the ambient background (will be subtracted from future spectra)
