@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Open">
+    <file>open_icon.png</file>
+  </qresource>
+  <qresource prefix="Stop">
+    <file>stop_icon.png</file>
+    <file>stop_icon.jpg</file>
+  </qresource>
+  <qresource prefix="Save">
+    <file>save_icon.jpg</file>
+  </qresource>
+</RCC>
