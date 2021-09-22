@@ -74,7 +74,7 @@ Unfortunately, one still needs to figure out how to communicate with the hardwar
 
 After one writes the translation stage and spectrometer classes, they should be incorporated into the GUI via utilities.py
 
-The Python file Utilities.py defines two classes: a Motor class, and a Spectrometer class. These two classes take as arguments in their init function, the translation stage and spectrometer classes written above. The criteria for what methods and attributes the translation stage and spectrometer classes needs to have are reiterated in the documentation in that file. A good test to see if the new hardware will be incorporated successfully is to run the util file, and verify that the Spectrometer and Motor classes are functional:
+The Python file Utilities.py defines two classes: a Motor class, and a Spectrometer class. These two classes take as arguments in their init function, the translation stage and spectrometer classes written above. A good test to see if the new hardware will be incorporated successfully is to run the util file, and verify that the Spectrometer and Motor classes are functional:
 
 ```Python
 '''one has written Stage and Spectrometer classes'''
